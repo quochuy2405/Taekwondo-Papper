@@ -1,0 +1,11 @@
+.focusText {
+  border: 2px solid rgb(175, 175, 175);
+  border-radius: 5px;
+}
+.text-choose {
+  min-height: 40px;
+  padding: 10px 5px;
+}
+.bodyPaper {
+  padding-bottom: 300px;
+}
